@@ -1,40 +1,10 @@
-<!--
-    需要填充的占位符：
-    
-    README.md
-    
-        OverIQ 中文系列教程：文档中文名
-        OverIQ Tutorials：文档英文名
-        https://overiq.com/：文档原始链接
-        oiq：域名前缀
-        飞龙：负责人名称
-        wizardforcel：负责人 Github 用户名
-        562826179：负责人 QQ
-        overiq-zh：ApacheCN 的 Github 仓库名称
-        overiq-zh：DockerHub 仓库名称
-        overiq-zh：PYPI 包名称
-        overiq-zh：NPM 包名称
-    
-    CNAME
-    
-        oiq：域名前缀
-
-    index.html
-    
-        OverIQ 中文系列教程：文档中文名
-        #333333：显示颜色
-        overiq-zh：ApacheCN 的 Github 仓库名称
-
-    asset/docsify-apachecn-footer.js
-    
-        overiq-zh：ApacheCN 的 Github 仓库名称
--->
-
 # OverIQ 中文系列教程
 
 > 原文：[OverIQ Tutorials](https://overiq.com/)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> 
+> 阶段：机翻（1）
 > 
 > 人最大的痛苦就是说一些自己都不相信的话。——燕京学堂鹿会
 
